@@ -4,7 +4,7 @@
 - name of class should start with upper case
 - variables and methods should be all lower case
 
-[Source Code]("./shelter.py")
+[Source Code](./shelter.py)
 
 
 * * *
