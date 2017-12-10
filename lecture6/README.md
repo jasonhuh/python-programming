@@ -3,19 +3,18 @@
 
 - name of class should start with upper case
 - variables and methods should be all lower case
-
-[Source Code](./shelter.py)
+- Here is an example of the [source code](./shelter.py) for the homework
 
 
 * * *
 
-### Typing
+### Let's Practice Typing
 - Go to [Nitro Type](https://www.nitrotype.com)
 - Practice typing for 5 minutes
 - Let's measure your typing speed
 
 ### Chapter 9 - Python’s Built-in Functions
-IDLE
+Launch IDLE
 
 ##### input()
 ```
@@ -174,3 +173,4 @@ time.struct_time(tm_year=2017, tm_mon=11, tm_mday=26, tm_hour=7, tm_min=57, tm_s
 Make sure everybody got the Lubuntu copy and have a working version
 
 ### Code Combat
+- https://codecombat.com
