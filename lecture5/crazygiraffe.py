@@ -10,7 +10,7 @@ class Animal(object):
         self.y = y
         print('move to x: {}, y: {}'.format(x, y))
 
-class Giraff(Animal):
+class Giraffe(Animal):
     def __init__(self, name):
         self.name = name
 
@@ -26,11 +26,11 @@ class Giraff(Animal):
     def right_foot_backward(self):
         print('right_foot_backward')
 
-class CrazyGiraff(Giraff):
+class CrazyGiraffe(Giraffe):
     def __init__(self):
         self.facebook_followers = []
 
-    def dance(self):        
+    def dance(self):
         steps = random.randint(3, 8)
         for _ in range(steps):
             move = random.randint(1, 4)
