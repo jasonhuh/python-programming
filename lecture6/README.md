@@ -1,3 +1,9 @@
+# Python Programming - Lecture 6
+
+* * *
+
+* [Presentation for Week 5](https://docs.google.com/presentation/d/1FUcFb78FCY9WI3JxZdZJAR-JmhqIJ4gZu3GnRlptivg/edit?usp=sharing)
+
 
 ### Review of Homework
 
