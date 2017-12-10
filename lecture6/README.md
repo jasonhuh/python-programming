@@ -7,6 +7,8 @@
 
 ### Review of Homework
 
+![alt text](../lecture5/homework.png)
+
 - name of class should start with upper case
 - variables and methods should be all lower case
 - Here is an example of the [source code](./shelter.py) for the homework
